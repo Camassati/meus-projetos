@@ -1,0 +1,16 @@
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\bin\Debug\net5.0\ForList.exe
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\bin\Debug\net5.0\ForList.deps.json
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\bin\Debug\net5.0\ForList.runtimeconfig.json
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\bin\Debug\net5.0\ForList.runtimeconfig.dev.json
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\bin\Debug\net5.0\ForList.dll
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\bin\Debug\net5.0\ForList.pdb
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.csproj.AssemblyReference.cache
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.GeneratedMSBuildEditorConfig.editorconfig
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.AssemblyInfoInputs.cache
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.AssemblyInfo.cs
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.csproj.CoreCompileInputs.cache
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.dll
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\refint\ForList.dll
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.pdb
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ForList.genruntimeconfig.cache
+G:\Gustavo\Projetos prog\ForList\ForList\ForList\obj\Debug\net5.0\ref\ForList.dll
